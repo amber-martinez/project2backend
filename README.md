@@ -1,1 +1,1 @@
-# project2backend
+# matchr. App Backend (Project 2)
